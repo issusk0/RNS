@@ -1,0 +1,2 @@
+example.com 90 IN TXT "VALOR DE EXAMPLE .TXT"
+youtube.com 90 IN TXT "ESTE ES EL DNS DE YOUTUBE en TXT"
